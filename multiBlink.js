@@ -1,3 +1,10 @@
+/*
+	This script demonstrates how to run multiple intervals with different timing.
+		
+	created by Tom Igoe
+	24 Jun 2014  
+*/
+
 // set the initial variables:
 var ledState = 0;
 var led2State = 0;

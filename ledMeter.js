@@ -1,3 +1,10 @@
+/*
+	This script turns on a row of NeoPixels using an analog input
+
+	created by Tom Igoe
+	23 Jun 2014  
+*/
+
 // initialize SPI on pin B15
 SPI2.setup({baud:3200000, mosi:B15});      
 // number of neoPixels you have

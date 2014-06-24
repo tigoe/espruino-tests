@@ -49,6 +49,10 @@ in function called from system
 ERROR: Error processing interval - removing it.
 Execution Interrupted during event processing.
 	
+		
+created by Tom Igoe
+23 Jun 2014  
+
 */
 
 var ledState = 0;   // state of the LED
