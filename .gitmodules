@@ -1,0 +1,3 @@
+[submodule "Samples by Anars"]
+	path = Samples by Anars
+	url = git@github.com:anars/Espruino.git
